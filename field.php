@@ -11,6 +11,7 @@
  * Text Domain: carbon-field-number
  * Domain Path: /languages
  */
+require_once __DIR__.'/core/Number_Field.php';
 
 use Carbon_Fields\Carbon_Fields;
 use Carbon_Field_Number\Number_Field;
