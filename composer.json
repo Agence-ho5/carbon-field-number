@@ -1,8 +1,8 @@
 {
-    "name": "agence-ho5/carbon-fields-number",
+    "name": "agence-ho5/carbon-field-number",
     "description": "Carbon Fields extension, that adds switch type to carbon field.",
-    "keywords": ["wordpress", "carbon-field", "carbon-fields-number"],
-    "homepage": "https://github.com/agence-ho5/carbon-fields-number",
+    "keywords": ["wordpress", "carbon-field", "carbon-field-number"],
+    "homepage": "https://github.com/agence-ho5/carbon-field-number",
 
     "type": "wordpress-muplugin",
     "license": "GPL-2.0+",
